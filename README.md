@@ -14,7 +14,7 @@ We have gathered data from four years of online booking history, which will be t
 ### **Demographic**
 - **Age Distribution**: 75% of customers are aged 26-35, indicating they have been in the workforce for a few years with stable incomes.
 - **Family Status**: The 36-50 age group is primarily composed of individuals with families.
-![age_1](age_1.png)
+![age_1](Readme-img/age_1.png)
 - **Data Verification**: 11% of customers have not verified their information, and this issue needs to be resolved.
 ![age_2](age_2.png)
 ![age_3](age_3.png)
