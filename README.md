@@ -1,4 +1,18 @@
 # **Customer Behavior Analysis and Recommendations**
+## **Table of Contents**
+1. [Define the Problem](#1-define-the-problem)
+   - [Situation](#situation)
+   - [Complication](#complication)
+   - [Questions](#questions)
+2. [Customer Behavior Analysis](#2-customer-behavior-analysis)
+   - [Demographic](#demographic)
+   - [Trend](#trend)
+   - [Payment Behavior](#payment-behavior)
+3. [Recommendations](#3-recommendations)
+   - [New Customers](#new-customers)
+   - [Old Customers](#old-customers)
+   - [Platform Improvement](#platform-improvement)
+   - [Product Quality Improvement](#product-quality-improvement)
 ## **1. Define the Problem**
 ### **Situation**
 The Product Team is tasked with evaluating customer behavior when using the product to identify opportunities for improvement and to introduce new features.
